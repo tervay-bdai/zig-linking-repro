@@ -1,0 +1,5 @@
+bazel-bin
+bazel-latomic
+bazel-out
+bazel-testlogs
+.vscode
